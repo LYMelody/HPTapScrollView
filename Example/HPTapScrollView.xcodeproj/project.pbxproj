@@ -31,7 +31,7 @@
 		163E3024CC4E6F627C2797FA /* Pods-HPTapScrollView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HPTapScrollView_Example.release.xcconfig"; path = "Target Support Files/Pods-HPTapScrollView_Example/Pods-HPTapScrollView_Example.release.xcconfig"; sourceTree = "<group>"; };
 		1F4E794196863A35B9DD7683 /* Pods-HPTapScrollView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HPTapScrollView_Tests.release.xcconfig"; path = "Target Support Files/Pods-HPTapScrollView_Tests/Pods-HPTapScrollView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		2F0EF899B065771A2B98FB16 /* Pods-HPTapScrollView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HPTapScrollView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-HPTapScrollView_Tests/Pods-HPTapScrollView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		4AE7E5FBE3C33B4382AB9533 /* HPTapScrollView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HPTapScrollView.podspec; path = ../HPTapScrollView.podspec; sourceTree = "<group>"; };
+		4AE7E5FBE3C33B4382AB9533 /* HPTapScrollView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HPTapScrollView.podspec; path = ../HPTapScrollView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACD01AFB9204008FA782 /* HPTapScrollView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HPTapScrollView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -45,8 +45,8 @@
 		67BEFA87731C0C6BD85B6A1C /* Pods_HPTapScrollView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HPTapScrollView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A5F438D1A40A7116AC13D6F /* Pods_HPTapScrollView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HPTapScrollView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B99E2479651B598F340982F /* Pods-HPTapScrollView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HPTapScrollView_Example.debug.xcconfig"; path = "Target Support Files/Pods-HPTapScrollView_Example/Pods-HPTapScrollView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		C56631E56EDCD411240C477F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		D8CF22977C8B911DB10F0D01 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		C56631E56EDCD411240C477F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		D8CF22977C8B911DB10F0D01 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,7 +77,6 @@
 				2F0EF899B065771A2B98FB16 /* Pods-HPTapScrollView_Tests.debug.xcconfig */,
 				1F4E794196863A35B9DD7683 /* Pods-HPTapScrollView_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
