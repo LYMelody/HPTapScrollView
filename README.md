@@ -27,3 +27,6 @@ LYMelody, zhouhuiping@souche.com
 ## License
 
 HPTapScrollView is available under the MIT license. See the LICENSE file for more info.
+
+
+
