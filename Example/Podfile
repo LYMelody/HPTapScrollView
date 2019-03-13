@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HPTapScrollView_Example' do
+  pod 'HPTapScrollView', :path => '../'
+
+  target 'HPTapScrollView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
