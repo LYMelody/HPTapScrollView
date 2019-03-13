@@ -8,11 +8,11 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HPTapScrollView'
-  s.version          = '0.1.0'
+  s.version          = '0.1.2'
   s.summary          = 'HPTapScrollView'
 
   s.description      = <<-DESC
-一个头部tabBar工具
+这是一个头部tabBar工具,类似今日头条
                        DESC
   s.homepage         = 'https://github.com/LYMelody/HPTapScrollView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
